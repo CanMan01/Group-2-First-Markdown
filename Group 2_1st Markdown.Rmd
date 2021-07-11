@@ -10,7 +10,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-sad
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -30,7 +30,24 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+1) Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
+- Javier
+
+	Data in essence is information grouped together in the form of statistics and graphs. Being able to analyze what the meaning is behind all of the numbers, means more knowledge in the topic the data pertains too. With this, people can make decisions to adapt to the information given. Without people with the skills in interpreting data correctly, the people who need it will take unguided actions, leading to mistakes and accidents in the future. 
+	
+2) Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
+  
+- Javier 
+  
+  Data Science was used in helping governments to make proper policies to adapt to the pandemic. One specific instance is lifting certain restrictions of quarantine here in the Philippines. Due to the nature of the virus, the government had to take necessary action to limit human traffic, negatively affecting many businesses which in turn negatively affect the economy. Data/statistics on the state of the pandemic were constantly being updated monthly. With the help of some experts, the government deduced it was time to start allowing non-essential businesses to function to a limited degree.  Without data scientists, the government might have done this in a worse time, worsening the already dire situation of the COVID-19 pandemic. 
+  	
+3) Propose atleast one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+  	
+- Javier 
+  		
+  In the modern world, data mining is essential knowledge. We are in an age where information is large in quantity and widespread throughout the known world. To process this amount of data is what data mining does.Further innovations in to this field will help in making more accurate reads and analysis on data. Graphs can be a first step towards that venture. Perhaps looking into examples like histograms can help me improve on existing models or come up with new ones. However, there is still much research done from past data scientists for this particular field, which can help me in learning whatever needs to be known about it. Large companies will most likely benefit from this study.  They are often associated with a large amount of clientele and assets. There will be a huge amount of information that comes from this and there will be a demand for experts to sort this through.
+  
 ## Why do we need to study and analyze data? (Abel)
 
 - First of all it can help the person improve their analytical skills which can be useful in some field. It can also be
