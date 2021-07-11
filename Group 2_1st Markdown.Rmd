@@ -11,22 +11,51 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Reasons to study data
+Raphael Lee
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<font size=4>Data is integral in our daily lives as regular internet users.
+Data shares similar qualities to words, having the power to define different parameters. (like determining someone's preference or buying pattern) Collecting data informs us of different results and can help us earn money if we find patterns and make certain decisions. Take the auto industry for example. Data is present from the Research and development stage up until the final sale at the dealership. Car manufacturers use previous data from previous sales to understand which types of products or parts work well while also gathering data on experimental products. The data helps engineers develop a car for a specific use  by analyzing the target market's wants and needs.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Arranging it into a list:
+<ol>
+<li>Defining parameters like preference, buying patterns, or collecting measurements</li>
+<li>Finding patterns (like stocks or sales)</li>
+<li>Helps us make decisions in life</li>
+</ol>
 
-```{r cars}
-summary(cars)
-```
+The picture below shows the prices of a Mazda RX7.
 
-## Including Plots
+![The Mazda FD RX-7](/Users/doibl/Desktop/meme stash/FD RX7 efini.jpg){width=60%}
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+For a company to come up with this kind of pricing, a lot of data analysis is involved. The company has to analyze their target demographic and has to factor in the costs of manufacturing and marketing to come up with a reasonable profit margin so that they can earn.They also have to decipher whether they are offering a midrange product or a high end one.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## One application of data science (Raphael Lee)
+One modern day application of data science today would be the use of Youtube recommendations. Many users call it the "Youtube algorithm."
+
+
+
+It uses users' data and watching patterns to determine what type of videos to show on the home page. This set of data is personalized, varying between person to person, meaning that every person has a different set of videos recommended to them based on what they like. 
+
+Specifically it analyzes:
+<ul>
+<li> User's search and watch history.</li>
+<li> Watch time on a specific channel or topic.</li>
+<li> What videos a user is likely to click on. </li>
+<li> Their patterns of likes and dislikes. </li>
+</ul>
+
+All of these serve to bring a more optimized experience to a certain user by catering to their interests. This also results in better traffic to Youtube and gives more exposure to smaller channels who have good content but are not that well known.
+
+## Data Science Topic to Explore (Raphael Lee)
+A Data Science topic I would like to explore would be Classification.
+Classification means that data is defined and categorized into certain parameters. It can also help distinguish certain data from each other.(such as fake or spam emails from real emails)
+With classification, this makes visualization of data easier as the data is clearly defined.
+
+An application of classification would be the analysis of keywords and sentence patterns in messages and emails.
+Classification could also be used in marketing to target a specific market by analyzing data on which methods and words are most effective.
+
+I believe that many people would benefit from this study since the software would increase the efficiency of analyzing data and optimize its use for different applications.
+
+
