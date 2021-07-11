@@ -89,19 +89,39 @@ outdated and up to date with whats happening with the world. This will benefit a
 good chatbot will optimize and automate alot of things that can save time and resources for both people and the company.
 
 ## Aside from the reasons mentioned in class, why do we need to study and analyze data? (tricia)
-Data is meaningless unless it can be converted into valuable information, which is why it is necessary to study and analyze data. Data science enables one’s questions/ queries to be answered through the information provided by the organized/ statistically-analyzed data, leading one to make data-driven decisions/ solutions or even predictions. For businesses and organizations, a data-driven approach means companies examine and organize their data leading to better service to their consumers. Making sense of data can lead to saving money, effective marketing and more efficient operations
+Data is meaningless unless it can be converted into valuable information, which is why it is necessary to study and 
+analyze data. Data science enables one’s questions/ queries to be answered through the information provided by the organized/ 
+statistically-analyzed data, leading one to make data-driven decisions/ solutions or even predictions. For businesses and 
+organizations, a data-driven approach means companies examine and organize their data leading to better service to their 
+consumers. Making sense of data can lead to saving money, effective marketing and more efficient operations
  
-There is also a  need to study data as data science is becoming more important in almost every field. Since data about almost everything is available on the web, data analysis can be applied to various fields. Therefore, learning how to analyze data can increase one’s job opportunities.
+There is also a  need to study data as data science is becoming more important in almost every field. Since data about 
+almost everything is available on the web, data analysis can be applied to various fields. Therefore, learning how to 
+analyze data can increase one’s job opportunities.
 
 ## Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.
  
-Policy making - Data and the ability to quickly process them makes way for a government to be more responsive. Knowing that a problem exists is frequently not enough, it is also important to know what are the factors that affect this problem and how they interact with each other and this can be known through data and its analysis. Having this knowledge can help which things to consider in policy making. For instance, in a report on the possibility of a terrorist attack on drinking water supplies, the Government Accountability Office noted that experts consulted “most strongly supported developing real-time monitoring technologies to quickly detect contaminants in treated drinking water on its way to consumers.”
+Policy making - Data and the ability to quickly process them makes way for a government to be more responsive. Knowing 
+that a problem exists is frequently not enough, it is also important to know what are the factors that affect this problem 
+and how they interact with each other and this can be known through data and its analysis. Having this knowledge can help 
+which things to consider in policy making. For instance, in a report on the possibility of a terrorist attack on drinking 
+water supplies, the Government Accountability Office noted that experts consulted “most strongly supported developing 
+real-time monitoring technologies to quickly detect contaminants in treated drinking water on its way to consumers.”
 
-market trends - Netflix, which is one of the biggest streaming platforms as of now, makes use of data science/ analytics, which played a role in the company’s success. From their 150 million subscribers, Netflix gathers data regarding their consumer’s watching information such as the time and date a user watched a show, the device used, when the show was paused, when it was resumed, shows that were finished, searches, recommendations and others. This data, along with the use of analytic tools, allows Netflix to know the current market trends which can be used in making future decisions/ releases. This decides which original contents/ shows will be greenlit. 
+market trends - Netflix, which is one of the biggest streaming platforms as of now, makes use of data science/ analytics, 
+which played a role in the company’s success. From their 150 million subscribers, Netflix gathers data regarding their consumer’s 
+watching information such as the time and date a user watched a show, the device used, when the show was paused, when 
+it was resumed, shows that were finished, searches, recommendations and others. This data, along with the use of analytic 
+tools, allows Netflix to know the current market trends which can be used in making future decisions/ releases. This decides 
+which original contents/ shows will be greenlit. 
 
 ## Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical methods you think you will need, and who would benefit from this study.
 
-A data science topic that I would like to pursue would be data visualization. It involves the presentation of data in a graphical format making it easier for viewers to understand the content and see the important patterns and trends. This requires the usage of different types of graphs such as line graphs, bar graphs, box and whiskers plots etc. 
+A data science topic that I would like to pursue would be data visualization. It involves the presentation of data in a 
+graphical format making it easier for viewers to understand the content and see the important patterns and trends. This 
+requires the usage of different types of graphs such as line graphs, bar graphs, box and whiskers plots etc. 
 
-A specific study that can be done with this data science topic is generating word clouds based on transcripts of Filipino presidential candidates. Of course, the Filipino citizens would benefit from this study because it can help them learn a little bit more about the candidates through simple visualizations.
+A specific study that can be done with this data science topic is generating word clouds based on transcripts of Filipino 
+presidential candidates. Of course, the Filipino citizens would benefit from this study because it can help them learn a 
+little bit more about the candidates through simple visualizations.
 
